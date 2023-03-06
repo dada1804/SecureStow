@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="forms.js"></script>
+    <title>Register</title>
+</head>
+<body>
+    <div class="signupSection">
+        <form action="#" method="POST" class="signupForm" name="signupform">
+          <h2>Sign Up</h2>
+          <ul class="noBullet">
+            <li>
+              <label for="username"></label>
+              <input type="text" class="inputFields" id="username" name="username" placeholder="Username" value="" oninput="return userNameValidation(this.value)" required/>
+            </li>
+            <li>
+              <label for="password"></label>
+              <input type="password" class="inputFields" id="password" name="password" placeholder="Password" value="" oninput="return passwordValidation(this.value)" required/>
+            </li>
+            <li>
+              <label for="email"></label>
+              <input type="email" class="inputFields" id="email" name="email" placeholder="Email" value="" required/>
+            </li>
+            <li id="center-btn">
+              <input type="submit" id="join-btn" name="register" alt="Register" value="Register">
+            </li>
+          </ul>
+        </form>
+</body>
+</html>

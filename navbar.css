@@ -1,0 +1,130 @@
+.nav-link:hover
+{
+  background-color: purple;
+}
+.navbar-brand
+{
+  font-size: 2rem;
+  padding-left: 15px;
+}
+p{
+font-family: Ubuntu;
+}
+.nav-item
+{
+  font-size: 1rem;
+  padding: 0 10px;
+}
+h1{
+  font-family: "Montserrat-black";
+  font-size: 3rem;
+  font-weight: bolder;
+  line-height: 1.5;
+
+}
+.container-fluid
+{
+  padding: 3% 8%;
+}
+.service
+{
+text-align: center;
+padding-top: 5% ;
+padding-bottom: 3%;
+font-size: 1.5rem;
+}
+.How
+{
+  text-align: center;
+  padding-top: 5% ;
+  padding-bottom: 3%;
+  font-size: 1.5rem;
+}
+
+.card-body
+{
+text-align: center;
+padding: 5%;
+
+}
+.whatsapp_float {
+position: fixed;
+width: 60px;
+height: 60px;
+bottom: 40px;
+right: 40px;
+background-color: #25d366;
+color: #FFF;
+border-radius: 50px;
+text-align: center;
+font-size: 30px;
+box-shadow: 2px 2px 3px #999;
+z-index: 100;
+}
+
+.whatsapp-icon {
+margin-top: 20px;
+}
+.em
+{
+  text-align: center;
+}
+.rf
+{ text-align: center;
+  padding-top: 5%;
+}
+.cm{
+  padding-top: 7%;
+}
+.carousel-item
+{
+  text-align: center;
+}
+.lc{
+  border-radius: 50%;
+  padding-bottom: 3%;
+}
+.cf
+{ padding-top: 3%;
+  padding-bottom: 3%;
+}
+.cl
+{ padding-top: 3%;
+padding-bottom: 4%;
+}
+.card{
+  height: 18rem;
+}
+.mc{
+  height: 22rem;
+}
+.eg{
+  text-align: center;
+  padding-top: 1.3%;
+  padding-bottom: 1%;
+  background-color: black;
+}
+.kl
+{ font-size: 1rem;
+  color: #FFF;
+  text-align: center;
+  padding-top: 1%;
+}
+
+    .sl {
+      color: white;
+      font-size: 20px;
+      padding-left: 3%;
+      padding-right: 3%;
+    }
+    social-icons {
+      font-size: 36px;
+      cursor: pointer;
+    }
+
+    .fa-facebook:hover,
+    .fa-instagram:hover,
+    .fa-twitter:hover,
+    .fa-linkedin:hover {
+      color:purple;
+    }
