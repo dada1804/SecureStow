@@ -2,7 +2,8 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Ware_House</title>
+    <title>SecureStow</title>
+<link rel="shortcut icon" href="favicoinlogo.png" type="image/png">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous"
@@ -12,6 +13,7 @@
 <link rel="stylesheet" href="style.css">
   </head>
   <body>
+
 <nav class="navbar navbar-expand-lg navbar-light bg-dark">
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
      <span class="navbar-toggler-icon"></span>
@@ -20,7 +22,7 @@
   <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
     <ul class="navbar-nav ms-auto">
     <li class="nav-item">
-    <a class="nav-link text-light" href="">Home</a>
+    <a class="nav-link text-light" href="#">Home</a>
   </li>
   <li class="nav-item">
   <a class="nav-link text-light" href="about.html">About</a>
@@ -35,17 +37,21 @@
 <a class="nav-link text-light" href="login.php">Log In</a>
 </li>
   </ul>
+
 </div>
 </nav>
-<div class="container-fluid">
+<div class="container-fluid ms pp">
 <div class="row">
 <div class="col-lg-6">
-<h1>We Store Anything You Care...Best Storage and Management Services</h1>
+<h1>We Store Anything You Care.. Best Storage Services</h1>
+<h6 class="bv"> Safe and Convenient Storage Solutions for Your Home and Wheels..</h6>
 </div>
 <div class="col-lg-6">
-  <img src="logistics-warehouse-illustration_1284-21010.webp" alt="">
+<img class="gbv" src="young-man-working-warehouse-with-boxes_1303-16617 (1) (1).jpg" height="100%" width="100%"alt="">
 </div>
   </div>
+</div>
+<div class="container-fluid zc">
   <div class="service">
   <p>
     Our Services
@@ -63,21 +69,22 @@
   </div>
 </div>
 <div class="col-lg-6">
-<div class="card">
+<div class="card jy">
 <div class="card-body">
   <img src="icon-under-30-seconds.png" width="100" height="105"  />
 <h2><b>Automobile Storage</b></h2>
 <p>
 SecureStow gives you perfect solution all of the above and ensures that vehicle is monitored 24x7 , kept in rodent proof environment.
 </p>
-<a href="https://wa.me/918088466300" class="whatsapp_float" target="_blank" rel="noopener noreferrer">
+<a href="https://wa.me/91XXXXXXXXX" class="whatsapp_float" target="_blank" rel="noopener noreferrer">
   <i class="fa fa-whatsapp whatsapp-icon"></i>
 </a>
 </div>
 </div>
 </div>
-
 </div>
+</div>
+<div class="container-fluid ms zz">
 <div class=" df How it works">
   <p class="rf">Right from packing to stowing and delivering back when you need it.
 Your stowed items stay safe and insured with us
@@ -125,11 +132,13 @@ Sq.Ft Space Occupied
 </p>
 </div>
 <div class="em col-lg-3">
-<img src="house.png" width="80" height="80"alt="">
+<img src="house.png" width="80" height="100"alt="">
 <h3 class="rf">8+</h3>
 <p class="rf">Secured Warehouses</p>
 </div>
 </div>
+</div>
+<div class="container-fluid zb">
 <div class="How it works">
   <p class="cl">What Our
 
@@ -187,39 +196,46 @@ Sq.Ft Space Occupied
                   </div>
           </div>
           <div class="col-lg-4">
+            <div class="mc card">
+              <div class="card-body">
               <img src="ram.jpeg" width="95%" height="90%"alt="">
           </div>
     </div>
+  </div>
+</div>
+</div>
+<div class="container-fluid ms">
     <div class="row mt-4">
-        <div class="cl col-lg-12">
-          <div style="max-width:100%;overflow:hidden;color:red;width:1500px;height:500px;">
-            <div id="display-google-map" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0"
-                src="https://www.google.com/maps/embed/v1/place?q=Mysore,+Karnataka,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="code-for-google-map" href="https://www.bootstrapskins.com/themes"
-              id="enable-maps-data">premium bootstrap themes</a>
-            <style>
-              #display-google-map img {
-                max-width: none !important;
-                background: none !important;
-                font-size: inherit;
-                font-weight: inherit;
-              }
-            </style>
-          </div>
-        </div>
-  
-  </div>
-  </div>
-  <footer class="eg" id="footer">
-    <!-- <div class="container-fluid"> -->
-      <div class="row">
-        <div class=" col-lg-12">
-          <a href="https://www.facebook.com/profile.php?id=100089469698344&mibextid=ZbWKwL/"><i class="sl fab fa-facebook"></i></a>
-          <a href="https://instagram.com/securestow?igshid=YmMyMTA2M2Y=" ><i class="sl fab fa-instagram"></i></a>
-          <a href="https://www.twitter.com/" target="_blank"><i class=" sl fab fa-twitter"></i></a>
-  <a href="mailto:Securestow@gmail.com"> <i class=" sl fab fa fa-inbox "></i></a>
-  <h5 class="kl">© Copyright SecureStow | All rights reserved.</h5>
+      <div class="cl col-lg-12">
+        <div style="max-width:100%;overflow:hidden;color:red;width:1500px;height:500px;">
+          <div id="display-google-map" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0"
+              src="https://www.google.com/maps/embed/v1/place?q=Mysore,+Karnataka,+India&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="code-for-google-map" href="https://www.bootstrapskins.com/themes"
+            id="enable-maps-data">premium bootstrap themes</a>
+          <style>
+            #display-google-map img {
+              max-width: none !important;
+              background: none !important;
+              font-size: inherit;
+              font-weight: inherit;
+            }
+          </style>
         </div>
       </div>
-    <!-- </div> -->
-  </footer>
-  </body></html>
+
+</div>
+</div>
+<footer class="eg" id="footer">
+  <!-- <div class="container-fluid"> -->
+    <div class="row">
+      <div class=" col-lg-12">
+        <a href="https://www.facebook.com/" target="https://www.facebook.com/profile.php?id=100089469698344&mibextid=ZbWKwL"><i class="sl fab fa-facebook"></i></a>
+        <a href="https://www.instagram.com/" target="https://instagram.com/securestow?igshid=YmMyMTA2M2Y="><i class="sl fab fa-instagram"></i></a>
+        <a href="https://www.twitter.com/" target="_blank"><i class=" sl fab fa-twitter"></i></a>
+<a href="mailto:Securestow@gmail.com"> <i class=" sl fab fa fa-inbox "></i></a>
+<h5 class="kl">© Copyright SecureStow | All rights reserved.</h5>
+      </div>
+    </div>
+  <!-- </div> -->
+</footer>
+
+</body></html>
